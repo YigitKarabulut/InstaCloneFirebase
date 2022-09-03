@@ -1,6 +1,15 @@
 # InstaCloneFirebase
 Instagram clone with firebase. Sign in, sign up, firebase storage, all functions used. All controllers done! So here is my screenshots.
 
+Click upload image - to upload page
+
+Click profile photo image - to change profile photo page
+
+If the user logs in, he does not need to log in again. When you close and open the application, it starts directly from the feed page.
+
+let myLinkedln = https://www.linkedin.com/in/yasaryigitkarabulut/
+
+
 
 <img src="https://user-images.githubusercontent.com/75642569/188266357-ae951e21-d03d-4f2e-bab0-b02fbfecf079.png" width=100> <img src="https://user-images.githubusercontent.com/75642569/188266358-3ec40cf7-d370-46cb-8400-2ad2a7edfe14.png" width=100>
 <img src="https://user-images.githubusercontent.com/75642569/188266360-08e490b9-b47a-4f99-ac1b-1d34ba34ab94.png" width=100>
