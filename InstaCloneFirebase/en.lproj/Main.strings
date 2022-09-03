@@ -1,0 +1,42 @@
+
+/* Class = "UIButton"; configuration.title = "Sign Up"; ObjectID = "1O2-v5-t8C"; */
+"1O2-v5-t8C.configuration.title" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "1O2-v5-t8C"; */
+"1O2-v5-t8C.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "2lF-aq-Auu"; */
+"2lF-aq-Auu.placeholder" = "Email";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "LYG-RX-AXI"; */
+"LYG-RX-AXI.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "LYG-RX-AXI"; */
+"LYG-RX-AXI.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "PpO-gE-RK4"; */
+"PpO-gE-RK4.placeholder" = "Password";
+
+/* Class = "UITabBarItem"; title = "Upload"; ObjectID = "SCe-KW-ydE"; */
+"SCe-KW-ydE.title" = "Upload";
+
+/* Class = "UILabel"; text = "Sing Up"; ObjectID = "WVK-kK-IYp"; */
+"WVK-kK-IYp.text" = "Sing Up";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "cGo-PT-aCs"; */
+"cGo-PT-aCs.placeholder" = "Password";
+
+/* Class = "UIButton"; configuration.title = "Save"; ObjectID = "efb-13-qWj"; */
+"efb-13-qWj.configuration.title" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "efb-13-qWj"; */
+"efb-13-qWj.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "jQh-VL-5f1"; */
+"jQh-VL-5f1.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "y2d-OO-tcu"; */
+"y2d-OO-tcu.placeholder" = "Username";
+
+/* Class = "UITabBarItem"; title = "Feed"; ObjectID = "zZS-4W-JfF"; */
+"zZS-4W-JfF.title" = "Feed";
